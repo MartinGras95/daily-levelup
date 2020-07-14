@@ -169,6 +169,10 @@
     width: auto;
   }
 
+  .list{
+    width: 100%;
+  }
+
   .list-item{
     margin: 40px 20px;
   }
