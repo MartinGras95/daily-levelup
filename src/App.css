@@ -58,7 +58,7 @@
 .list {
   width: 90%;
   margin: auto;
-  max-height: 300px;
+  max-height: 275px;
   overflow: hidden;
   overflow-y: auto;
 }

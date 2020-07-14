@@ -4,7 +4,7 @@ const Level = (props) => {
 
   return (
     <div className="level-wrapper">
-      <h3>Current Levels</h3>
+      <h3>Current Level</h3>
       {props.currentLevel}
     </div>
   );
