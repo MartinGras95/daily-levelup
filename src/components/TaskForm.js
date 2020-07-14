@@ -31,6 +31,7 @@ function TaskForm() {
             type="text"
             className="task-input"
             placeholder="Add task.."
+            maxLength="25"
             required
             />
 

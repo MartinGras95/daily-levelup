@@ -173,6 +173,11 @@
     margin: 40px 20px;
   }
 
+  .list-item span{
+    max-width: 80%;
+    overflow: auto;
+  }
+
   .task-btn i{
     font-size: 32px;
   }
